@@ -1,0 +1,6 @@
+{
+  "time_display_format": "24-hour",
+  "date_display_format": "dd-mm-yyyy",
+  "time_zone": "UTC",
+  "ntp_server": "pool.ntp.org"
+}
